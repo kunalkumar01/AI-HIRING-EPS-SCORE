@@ -62,7 +62,8 @@ def main():
     
     # ----- LOGO SECTION -----
     # Attempt to display your Google Images link:
-    logo_url = "https://images.app.goo.gl/kFzKTNFxSZfkqgHX8"
+    logo_url = "https://logowik.com/content/uploads/images/iit-indian-institute-of-technology-kharagpur4613.jpg"
+"
     st.image(logo_url, width=150)
     
     # Dashboard title
